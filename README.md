@@ -2,7 +2,7 @@ heroku-buildpack-tesseract
 ===========================
 Added the libraries to use Tesseract 3.02.02 on Heroku
 
-*Update*: this fork incldues Chinese training data.
+**Update**: this fork incldues Chinese training data.
 
 This buildpack is built to be used through [heroku-buildpack-multi](https://github.com/ddollar/heroku-buildpack-multi).
 In your app you need to:
